@@ -1,0 +1,11 @@
+body {
+    background-image: linear-gradient(to right, rgb(52, 52, 255), rgb(68, 255, 68), rgb(180, 0, 180));
+}
+
+.full-width {
+    width: 100%;
+}
+
+#displays {
+    text-align: right;
+}
